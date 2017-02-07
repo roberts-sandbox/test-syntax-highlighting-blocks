@@ -6,6 +6,7 @@ The CSS code block below technically has a syntax error (a missing `}`).
 body {
   ...
   ... add a closing brace here to see the highlight difference in line 14
+  }
 ```
 
 However, syntax errors should not spill into subsequent blocks. The block below should be highlighted properly as JavaScript.
